@@ -50,7 +50,7 @@ In the "Add Friend" section under the "Friends" header, you can add a friend by 
 ![image](https://user-images.githubusercontent.com/83597131/174190541-cfcb89d3-8512-4ed1-b4ba-ba5caa4159f4.png)  
 (search_game.php)  
 
-When you visit the profile page of a player, you see their user information. If the logged in user is friends with the other user, they, also have the option to view that user's game collection. If the user is not a friend, they can be sent a friend request. 
+When you visit the profile page of a player, you see their user information. If the logged in user is friends with the other user, there is also the option to view that user's game collection. If the user is not a friend, they can be sent a friend request. 
 ![image](https://user-images.githubusercontent.com/83597131/174190889-91d37eb3-687a-424c-b85f-ef7729adaafc.png)  
 (view_player.php)
 
@@ -61,6 +61,14 @@ If there is a friend request made, a notification will appear on the account of 
 Friend requests can be accepted or declined on the user's profile page.  
 ![image](https://user-images.githubusercontent.com/83597131/174191232-6941246f-00e2-41e9-b062-3b69b9ec1225.png)  
 (view_player.php)
+
+You can view your own profile in "My Profile" under the section "My Account". This page shows the number of games of your shelf, your email address, your bio, and your friends.  
+![image](https://user-images.githubusercontent.com/83597131/174191737-ee9ae157-4323-4a39-8994-fecaca11d716.png)  
+(profile.php)
+
+You can edit your username, email address, bio, or profile picture by clicking on the "edit" button in your profile.  
+![image](https://user-images.githubusercontent.com/83597131/174191915-a45fae0d-8e6d-440e-904c-f71a5440637a.png)  
+(edit_profile.php)  
 
 ## Credits  
 Site Developer: Fiona Cheng  
