@@ -15,6 +15,14 @@ Organization - The website is organized into 5 main sections accessible in the n
 ![image](https://user-images.githubusercontent.com/83597131/174106744-561fd1bb-b9eb-4684-9640-4a2913f0cfd3.png)  
 (Screenshot of index.php)  
 
+In "My Shelf" a user can add a game to their shelf by typing the name of the game into the textbox. If the game already exists, it will be added to the users shelf. If it is a new game, the user will be asked to fill out some information about the game. Checks are performed on the inputted information to ensure the information makes sense.  
+![image](https://user-images.githubusercontent.com/83597131/174163022-8c3dbe97-314c-4b56-a563-e1fa8c8344c3.png)  
+(Screenshot of add_game1.php)  
+![image](https://user-images.githubusercontent.com/83597131/174164337-190c8376-a45d-4d18-bdc3-6e3af0e04149.png)  
+(Screenshot of add_game2.php)  
+
+
+
 ## Credits  
 Site Developer: Fiona Cheng  
 Beta Tester: Wendy Yee  
