@@ -41,11 +41,26 @@ In View Shelf, Game Library, and Search Games, if you click on one of the games 
 ![image](https://user-images.githubusercontent.com/83597131/174166342-343d4fd1-c8cc-4a44-ba88-2eb357aafd78.png)  
 (view_game.php)  
 
-In View Game, there is also an edit button which leads you 
+In View Game, there is also an edit button which leads you editing page where you can change any piece of game information (except the name of the game). 
+![image](https://user-images.githubusercontent.com/83597131/174170547-2f703171-db82-4072-a706-6bfc80836e80.png)  
+(edit_game.php)  
 
+In the "Add Friend" section under the "Friends" header, you can add a friend by username or click on a profile in the user list to visit the profile page of a player. 
+![image](https://user-images.githubusercontent.com/83597131/174190512-2922069e-5cae-4ce2-96ae-a7c41a50ea89.png)  
+![image](https://user-images.githubusercontent.com/83597131/174190541-cfcb89d3-8512-4ed1-b4ba-ba5caa4159f4.png)  
+(search_game.php)  
 
+When you visit the profile page of a player, you see their user information. If the logged in user is friends with the other user, they, also have the option to view that user's game collection. If the user is not a friend, they can be sent a friend request. 
+![image](https://user-images.githubusercontent.com/83597131/174190889-91d37eb3-687a-424c-b85f-ef7729adaafc.png)  
+(view_player.php)
 
+If there is a friend request made, a notification will appear on the account of the user.  
+![image](https://user-images.githubusercontent.com/83597131/174190970-05662bb9-5f18-4b55-9eea-0d5188ba1b61.png)  
+(add_friend.php)  
 
+Friend requests can be accepted or declined on the user's profile page.  
+![image](https://user-images.githubusercontent.com/83597131/174191232-6941246f-00e2-41e9-b062-3b69b9ec1225.png)  
+(view_player.php)
 
 ## Credits  
 Site Developer: Fiona Cheng  
