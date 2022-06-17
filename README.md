@@ -54,7 +54,7 @@ When you visit the profile page of another user, you see their user information.
 ![image](https://user-images.githubusercontent.com/83597131/174190889-91d37eb3-687a-424c-b85f-ef7729adaafc.png)  
 (view_player.php)
 
-If there is a friend request made, a notification will appear on the corresponding account.  
+If there is a friend request made, a notification will appear in the corresponding account.  
 ![image](https://user-images.githubusercontent.com/83597131/174190970-05662bb9-5f18-4b55-9eea-0d5188ba1b61.png)  
 (add_friend.php)  
 
