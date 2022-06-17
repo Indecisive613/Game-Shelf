@@ -4,7 +4,7 @@
 Game Shelf is a website where users can keep track of their board game collection. Users add games to a virtual board game shelf, then search their collection using various criteria such as game category, creator, and player count to find specific games. Users can choose how they want the results to be displayed: alphabetically, by complexity, by game length, or by popularity. The site also includes a game library containing board games from all users, which can be searched to discover new games that suit a user’s tastes. Finally, the friends feature allows users to see the games of others.
 
 ## Languages  
-This project uses HTML, CSS, PHP and SQL. Since Github only allows for static sites, a working product is not available. Instead, please see the detailed description which contains screenshots of the site.
+This project uses HTML, CSS, PHP and SQL. Since Github only allows for static sites, a working product is not available. Instead, please see the description which contains screenshots of the site.
 
 ## Description  
 After logging in, the user is brought to the homepage of Game Shelf. 
