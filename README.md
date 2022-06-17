@@ -76,4 +76,4 @@ You can edit your username, email address, bio, or profile picture by clicking o
 
 ## Credits  
 Developer: Fiona Cheng  
-Last edit: June 16, 2022  
+Last edit: June 17, 2022  
